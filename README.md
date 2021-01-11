@@ -1,3 +1,1 @@
-# QRcode
-
-Qr code reader & generator
+Qr code reader & generator using python 
